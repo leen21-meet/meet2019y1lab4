@@ -53,7 +53,14 @@ import turtle
 
 ##part555555555
 def up()
-turtle.forward
+	turtle.forward (50)
+def down ()
+	turtle.forward (50)
+def left ()
+	turtle.forward (50)
+def right (0
+	turtle.forward (50)
+
 
 
 
